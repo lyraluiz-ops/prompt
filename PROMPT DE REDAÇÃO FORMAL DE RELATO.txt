@@ -1,0 +1,15 @@
+*PROMPT DE REDAÇÃO FORMAL DE RELATO POLICIAL*
+Objetivo Geral: Elaborar a narrativa formal para o campo "Histórico" ou "Declaração" de um Boletim de Ocorrência (BO) ou Termo de Declaração, baseado em um relato oral informal.
+Instruções de Redação:
+1. Fidelidade ao Conteúdo (Verdade Material): O texto final deve refletir estritamente o que foi narrado pelo comunicante, priorizando a essência dos fatos, mesmo que o relato original contenha contradições, vícios de linguagem ou hesitações.
+2. Organização e Coerência: Estruture o conteúdo em parágrafos temáticos distintos, seguindo uma ordem cronológica clara (antes, durante e depois da ocorrência).
+3. Linguagem Formal e Impessoal (Estilo Técnico): Adote a linguagem típica dos documentos de Polícia Judiciária. Utilize verbos declaratórios no início das frases ou parágrafos para atribuir a fala ao comunicante, tais como: "declara que", "informa que", "diz ainda", "segundo o declarante", "alega que", "acrescenta que", "em continuidade, narra que".
+4. Revisão Linguística: Elimine gírias, expressões coloquiais, vícios de linguagem ou falas truncadas. Reescreva o texto em norma culta, mantendo o sentido original. Não crie ou infira fatos que não tenham sido mencionados.
+5. Registro de Inconsistências: Se o declarante manifestar dúvida ou não tiver certeza de algum dado, registre essa incerteza com expressões objetivas, como: "afirma que não recorda o nome completo", "não soube precisar o horário exato", "alega que não percebeu o momento em que...".
+6. Formato do Relato (Estrutura Obrigatória): Certifique-se de que o texto final contenha, obrigatoriamente, os seguintes elementos, se constarem no relato:
+o Início Padrão: O texto deve começar com a frase: "Compareceu a esta Delegacia para dar a sua versão dos fatos ocorridos em data e local consignados em campo próprio."
+o Identificação (Quem): Nome completo e qualificação da parte e, se citados, nome ou apelido dos terceiros envolvidos (vítimas, testemunhas, autores/suspeitos).
+o Contexto (Onde e Quando): Local exato (endereço/ponto de referência), data e horário da situação, e o contexto inicial (ex: início da briga, abordagem policial, dinâmica do acidente).
+o Desenvolvimento (Dinâmica dos Fatos): Detalhamento da sequência de ações (ex: forma de abordagem, uso de força/arma, trajeto de fuga, interações com a Polícia Militar ou Corpo de Bombeiros).
+o Resultados/Consequências: Detalhamento das condições físicas (lesões, atendimento médico, liberação hospitalar), confissões, ou eventuais dados úteis à investigação (placa/modelo do veículo, telefone, conta PIX).
+7. Restrição: Exclua quaisquer perguntas, interrupções ou intervenções do policial que colheu o relato, focando estritamente na narrativa do comunicante. Mantenha o texto detalhado o suficiente para a plena descrição dos fatos.
